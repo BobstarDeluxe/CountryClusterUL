@@ -21,7 +21,7 @@ The dataset used in this project includes global country-level data with various
 ## Presentation  
 You can watch the project presentation here:  
 
-[Clustering Countries Based on Demographic Data - YouTube](https://www.youtube.com/watch?v=your_video_link)
+[Clustering Countries Based on Demographic Data - YouTube](https://youtu.be/ijL6Fo3dtrI)
 
 ## Tools & Technologies  
 - Python (Pandas, NumPy, Scikit-learn)  
