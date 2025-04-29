@@ -1,5 +1,5 @@
 # Unsupervised Learning: Clustering Countries Based on Demographic Data  
-CSCA 5622 Unsupervised Learning Project
+CSCA 5632 Unsupervised Learning Project
 
 ## Overview  
 This project applies unsupervised learning techniques to cluster countries based on their socio-economic and demographic data. 
