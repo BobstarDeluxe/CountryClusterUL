@@ -11,7 +11,7 @@ The analysis leverages features like GDP, life expectancy, child mortality and o
 ## Dataset  
 The dataset used in this project includes global country-level data with various socio-economic and demographic indicators, including measures like GDP, life expectancy, fertility rate, and others. The dataset consists of multiple countries and their corresponding values across these indicators.
 
-[Country Demographic Data on Kaggle](https://www.kaggle.com/datasets)
+[Country Demographic Data on Kaggle]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data/data))
 
 ## Project Highlights  
 - **Data Analysis**: Comprehensive exploratory data analysis (EDA) to understand the relationships and patterns in demographic and socio-economic features.  
